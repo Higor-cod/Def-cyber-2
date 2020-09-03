@@ -1,0 +1,6 @@
+analise.txt 
+o que o sistema tem que fazer
+
+O sistema deve fazer autenticacao de usuario.
+O sistema deve alocar o carro voador mais proximo do usuario.
+O sistema deve possibilitar a solicitacao de uma viagem por aplicativo.
